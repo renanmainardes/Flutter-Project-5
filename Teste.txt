@@ -1,1 +1,3 @@
 Mudança feita no repositório remoto (Github).
+
+Nova linha adicionada localmente.
