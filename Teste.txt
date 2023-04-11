@@ -2,4 +2,6 @@ Mudança feita no repositório remoto (Github).
 
 Linha adicionada remotamente
 
-NOVA LINHA ADICIONADA REMOTAMENTE.
+
+NOVA LINHA ADICIONADA LOCALMENTE.
+
